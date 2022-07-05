@@ -4,8 +4,8 @@ Template job for the ncs_core
 
 ## Installation
 
-add in server.cfg `ensure ncs_job`
-look like :
+Add in server.cfg `ensure ncs_job`
+need to look like :
 ```cfg
 [...]
 
